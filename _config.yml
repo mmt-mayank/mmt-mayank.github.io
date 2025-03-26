@@ -32,7 +32,7 @@ resume-url: ./assets/resume/Mayank Resume.pdf
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: mayank-tanksale    # https://www.linkedin.com/in/mayank-tanksale 
   github: mmt-mayank    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
