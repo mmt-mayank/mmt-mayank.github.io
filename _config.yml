@@ -24,7 +24,7 @@ profile_image: ./assets/images/profile-image/avatar1.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/1JAp4_NEPW6rTmcoYKqnLwf_Fm445IiMN/view?usp=sharing
+resume-url: .assets/resume/mayank resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
