@@ -15,7 +15,7 @@ title: Mayank's Portfolio # This is what shows up in the tab of the browser
 name: Mayank Tanksale
 headline: Traffic Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  B. Tech Civil Engineering, VIIT, Pune /n
+  B. Tech Civil Engineering, VIIT, Pune \n
   M. Tech Transportation Engineering, COEP Technological University, Pune
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
